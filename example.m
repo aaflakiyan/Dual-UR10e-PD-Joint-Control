@@ -1,5 +1,3 @@
-% this example is for joint velocity controllers of both robots
-
 clear all
 clc
 
