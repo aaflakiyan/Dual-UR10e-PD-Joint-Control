@@ -7,6 +7,7 @@ This repository demonstrates dual-arm manipulation using two Universal Robot UR1
 - In your catkin workspace: 
 ```
 git clone https://github.com/UniversalRobots/Universal_Robots_ROS_Driver.git
+git clone https://github.com/rxjia/fmauch_universal_robot.git
 ```
 - Copy launch files inside the launch folder of this repository and paste them in the following path:
 ```
