@@ -3,7 +3,7 @@
 % for joint controller try:
 % roslaunch ur_robot_driver dual_arm_ur10e_bringup_joint.launch
 % for cartesian controller try:
-% roslaunch ur_robot_driver dual_arm_ur10e_bringup_joint.launch
+% roslaunch ur_robot_driver dual_arm_ur10e_bringup_cartesian.launch
 
 
 % save the calibration you get from your robots in ur_calibration/etc/
